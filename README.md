@@ -14,7 +14,6 @@
 ![Última actualización](https://img.shields.io/github/last-commit/PQC-standards/Criptoanalisis)
 
 
-
 En este repositorio se encuentra un notebook con cuatro diferentes métodos de ataque al esquema Kyber-KEM que podría seguir un atacante. Todo explicado desde un punto de vista didáctico, con el objetivo de un acercamiento más cercano a la materia.
 
 Este repositorio ha sido desplegado en Binder y puede lanzarse sin instalar nada pulsando el botón "Binder" al inicio del README.
