@@ -33,11 +33,11 @@ Este repositorio contiene los anexos sobre problemas relacionados realizados par
 El proyecto tiene como objetivo complementar el trabajo de documentación e investigación que se ha realizado sobre el nuevo estándar del NIST KYBER-KEM de una forma didáctica. De forma que se pueda entender completamente la primitiva matemática en la que se basa la mayoría de algoritmos de criptografía post-cuántica, los retículos. Así como los problemas en los que se sustentan estos algoritmos.
 
 Los elementos principales del repositorio incluyen:
-- Notebook sobre **Simulación de ataques**: Donde encontrán simulaciones de los siguientes ataques:
-      - Ataque ingenuo
-      - Ataque basado en aproximación con mínimos cuadrados
-      - Ataque de reducción de redes
-      - Ataque basado en aprendizaje automático  
+- Notebook sobre **Simulación de ataques**: Donde encontrán simulaciones de los siguientes ataques:<br>
+      - Ataque ingenuo<br>
+      - Ataque basado en aproximación con mínimos cuadrados<br>
+      - Ataque de reducción de redes<br>
+      - Ataque basado en aprendizaje automático<br>
 
 ## Instalación
 
