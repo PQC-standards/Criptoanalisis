@@ -10,7 +10,7 @@
 ![example workflow](https://github.com/PQC-standards/Criptoanalisis/actions/workflows/notebook-test.yml/badge.svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e49e78c587814fbca934bfaea618d7a5)](https://app.codacy.com/gh/PQC-standards/Criptoanalisis/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) <br>
 ![Python](https://img.shields.io/badge/python-3.8-blue)
-![Versión](https://img.shields.io/badge/versión-1.0.0-blue)
+![Versión](https://img.shields.io/badge/versión-1.0.2-blue)
 ![Última actualización](https://img.shields.io/github/last-commit/PQC-standards/Criptoanalisis)
 
 
